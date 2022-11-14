@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/2255248/201787688-a3aec85f-143f-41d3-abc4-b81285c20934.png" align="right" width="300"/>
+<img src="https://user-images.githubusercontent.com/2255248/201787688-a3aec85f-143f-41d3-abc4-b81285c20934.png" align="right" width="250"/>
 
 ### Bienvenue | Welcome
 
